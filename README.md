@@ -33,7 +33,7 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 > **My Role:** Backend development.
 
 **Tech Stack:**  
-`Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `Docker`
+`Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `Docker` · `Redis`
 
 **Features:**
 - 🏢 Browse available facilities
