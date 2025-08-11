@@ -13,13 +13,15 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 > **My Role:** Full backend development (Spring Boot, JWT Security, PostgreSQL, Docker).
 
 **Tech Stack:**  
-`Java` · `Spring Boot` · `MySQL` · `Spring Security (JWT)` · `Docker` · `Liquibase`
+`Java` · `Spring Boot` · `MySQL` · `Spring Security (JWT)` · `Docker` · `Liquibase` · `Gemini API` · `Cloudinary API`
 
 **Features:**
 - 🔍 Search trainers & gyms by sport type and location
 - 📅 Create and join sports events
 - ⭐ Rate trainers and gyms
 - 🔐 Secure authentication with JWT
+- ✨ AI Integration: Uses Gemini API for smart content generation
+- 🖼️ Image Management: Cloudinary API for storing and managing user photos
 
 <!--
 **Preview:**  
@@ -33,13 +35,17 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 > **My Role:** Backend development.
 
 **Tech Stack:**  
-`Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `Docker` · `Redis`
+`Java` · `Spring Boot` · `PostgreSQL` · `Liquibase` · `Docker` · `Redis` · `Telegram API` · `Stripe API`
 
 **Features:**
 - 🏢 Browse available facilities
 - 📅 Book rooms with specific time slots
 - 👥 Role-based access (Admin / User)
 - 📊 View and manage reservations
+- 📢 Notifications: Telegram API for sending booking confirmations and reminders
+- 💰 Payment System: Stripe API for processing secure payments
+
+
 
 **Preview:** [Watch Demo on Vimeo](https://vimeo.com/1076702684)
 
