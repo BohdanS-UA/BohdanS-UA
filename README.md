@@ -41,8 +41,7 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 - 👥 Role-based access (Admin / User)
 - 📊 View and manage reservations
 
-**Preview:**  
-![Booking App Screenshot](https://vimeo.com/manage/videos/1076702684)
+**Preview:** [Watch Demo on Vimeo](https://vimeo.com/1076702684)
 
 ---
 
@@ -59,10 +58,21 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 - 💳 Place orders
 - 🔐 Secure authentication with JWT
 
-**Preview:**  
-![Book Store Screenshot](https://vimeo.com/manage/videos/1065013803)
+**Preview:** [Watch Demo on Vimeo](https://vimeo.com/manage/videos/1065013803)
+
 
 ---
+## 💻 Algorithm Practice
+
+> Repositories with my solutions for algorithmic problems from Codewars, LeetCode, and other platforms.
+
+- **[Solutions 1](https://github.com/BohdanS-UA/algorithmic-tasks)**
+- **[Solutions 2](https://github.com/BohdanS-UA/algoritthmic_tasks_2)**
+- **Tech Stack:** `Java`, `MySQL`
+---
+
+---
+
 
 ## 📬 Contact Me
 - 📧 **Email:** shevtsov.b@gmail.com  
