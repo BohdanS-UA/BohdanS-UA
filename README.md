@@ -13,7 +13,7 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 > **My Role:** Full backend development (Spring Boot, JWT Security, PostgreSQL, Docker).
 
 **Tech Stack:**  
-`Java` · `Spring Boot` · `PostgreSQL` · `Spring Security (JWT)` · `Docker` · `Liquibase`
+`Java` · `Spring Boot` · `MySQL` · `Spring Security (JWT)` · `Docker` · `Liquibase`
 
 **Features:**
 - 🔍 Search trainers & gyms by sport type and location
