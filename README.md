@@ -77,13 +77,23 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 - **Tech Stack:** `Java`, `MySQL`
 ---
 
+
+## 📦 Skills
+| Category        | Technologies |
+|-----------------|--------------|
+| **Backend**     | Java, Spring Boot, Spring Security, JPA/Hibernate |
+| **Databases**   | MySQL, PostgreSQL, Redis |
+| **DevOps**      | Docker, Liquibase |
+| **Other APIs**  | Stripe API, Telegram API, Cloudinary, Gemini AI, ChatGPT |
+| **Testing**     | JUnit, Mockito |
+
 ---
 
 
 ## 📬 Contact Me
 - 📧 **Email:** shevtsov.b@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bohdan-shevtsov-810741106/)  
-- 🐙 [GitHub](https://github.com/BohdanS-UA)
+- 🐙 [Telegram](https://t.me/Shevtsov_B) 
 
 ---
 ⭐ *If you like my projects, consider giving them a star!*
