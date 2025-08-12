@@ -70,8 +70,8 @@ I focus on **clean architecture**, **secure authentication**, and **high-perform
 ---
 ## 💻 Algorithm Practice
 
-> Repositories with my solutions for algorithmic problems from Codewars, LeetCode, and other platforms.
-
+> Regularly solving algorithmic problems from Codewars, LeetCode, and other platforms to sharpen problem-solving skills.  
+Repositories:  
 - **[Solutions 1](https://github.com/BohdanS-UA/algorithmic-tasks)**
 - **[Solutions 2](https://github.com/BohdanS-UA/algoritthmic_tasks_2)**
 - **Tech Stack:** `Java`, `MySQL`
